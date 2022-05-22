@@ -12,3 +12,7 @@ echo how are you
 
 ##echo -e "\e[COLmMESSAGE\e[0m"
 echo -e"\e[COLmMESSAGE\e[0m"
+
+echo -e "\e[31mhelloworld\e[0m"
+echo -e "\e[32mhelloworld\e[0m"
+echo -e "\e[33mhelloworld\e[0m"
