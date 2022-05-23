@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p 'Enter your Name:' name
-read -p 'Enter your age:' age
+read -r 'Enter your Name:' name
+read -r 'Enter your age:' age
 
 echo "your Name = ${name}, your age = ${age}"
