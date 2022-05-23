@@ -1,3 +1,3 @@
 #Nature is great
 
-echo=${5}
+a=${5}
